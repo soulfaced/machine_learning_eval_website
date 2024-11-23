@@ -1,0 +1,52 @@
+[
+  {
+    "user_id": "A3UH4UZ4RSVO82",
+    "name": "John Doe",
+    "helpfulness": "10/11"
+  },
+  {
+    "user_id": "A2MVUWT453QH61",
+    "name": "Jane Smith",
+    "helpfulness": "7/7"
+  },
+  {
+    "user_id": "A14OJS0VWMOSWO",
+    "name": "Michael Brown",
+    "helpfulness": "3/4"
+  },
+  {
+    "user_id": "A22X4XUPKF66MR",
+    "name": "Emily Johnson",
+    "helpfulness": "3/3"
+  },
+  {
+    "user_id": "A2RSSXTDZDUSH4",
+    "name": "Jessica Davis",
+    "helpfulness": "0/0"
+  },
+  {
+    "user_id": "A30TK6U7DNS82R",
+    "name": "Chris Wilson",
+    "helpfulness": "10/10"
+  },
+  {
+    "user_id": "A3VA4XFS5WNJO3",
+    "name": "Sarah Moore",
+    "helpfulness": "3/5"
+  },
+  {
+    "user_id": "A373VVEU6Z9M0N",
+    "name": "David Taylor",
+    "helpfulness": "1/1"
+  },
+  {
+    "user_id": "AZ0IOBU20TBOP",
+    "name": "Sophia Anderson",
+    "helpfulness": "8/10"
+  },
+  {
+    "user_id": "A25MD5I2GUIW6W",
+    "name": "Matthew Jackson",
+    "helpfulness": "0/0"
+  }
+]
